@@ -1,0 +1,36 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 28 Mar 2024 17:52:50 at https://themesflat.co/html/restaurant/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://themesflat.co/html/restaurant/ -O1 "C:\My Web Sites\test" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:52:53	Warning: 	Note: due to https://themesflat.co remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+17:59:09	Error: 	"Forbidden" (403) at link https://code.highcharts.com/highcharts.js (from https://themesflat.co/html/restaurant/basilicohtml/index.html)
+18:09:52	Warning: 	File not parsed, looks like binary: https://themesflat.co/html/restaurant/basilicohtml/assets/fontawesome-free-6.4.2-web/webfonts/fa-brands-400.woff2
+18:09:52	Warning: 	File not parsed, looks like binary: https://themesflat.co/html/restaurant/basilicohtml/assets/fontawesome-free-6.4.2-web/webfonts/fa-regular-400.woff2
+18:09:52	Warning: 	File not parsed, looks like binary: https://themesflat.co/html/restaurant/basilicohtml/assets/fontawesome-free-6.4.2-web/webfonts/fa-solid-900.woff2
+18:09:52	Warning: 	File not parsed, looks like binary: https://themesflat.co/html/restaurant/basilicohtml/assets/fontawesome-free-6.4.2-web/webfonts/fa-v4compatibility.woff2
+18:09:52	Error: 	"Not Found" (404) at link https://themesflat.co/html/restaurant/basilicohtml/menu_style.html (from https://themesflat.co/html/restaurant/basilicohtml/home_04.html)
+18:09:52	Error: 	"Not Found" (404) at link https://themesflat.co/html/restaurant/basilicohtml/menu_tab.html (from https://themesflat.co/html/restaurant/basilicohtml/home_04.html)
+18:11:08	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themesflat.co/html/restaurant/luxury/assets/images/box-item/road-map-3.jpg (from https://themesflat.co/html/restaurant/luxury/about.html)
+18:11:46	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themesflat.co/html/restaurant/coffee/assets/font/font.css (from https://themesflat.co/html/restaurant/coffee/assets/css/style.css)
+18:11:46	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themesflat.co/html/restaurant/coffee/assets/css/bootstrap.css (from https://themesflat.co/html/restaurant/coffee/assets/css/style.css)
+18:11:47	Warning: 	File not parsed, looks like binary: https://themesflat.co/html/restaurant/fastfood/assets/font/icon/fa-brands-400.woff2
+18:11:47	Warning: 	File not parsed, looks like binary: https://themesflat.co/html/restaurant/fastfood/assets/font/icon/fa-duotone-900.woff2
+18:11:53	Error: 	"Not Found" (404) at link https://themesflat.co/html/restaurant/fastfood/assets/icon/fa-light-300.eot (from https://themesflat.co/html/restaurant/fastfood/assets/font/font-awesome.css)
+18:11:53	Warning: 	File not parsed, looks like binary: https://themesflat.co/html/restaurant/fastfood/assets/font/icon/fa-light-300.woff2
+18:11:56	Warning: 	File not parsed, looks like binary: https://themesflat.co/html/restaurant/fastfood/assets/font/icon/fa-regular-400.woff2
+18:11:59	Warning: 	File not parsed, looks like binary: https://themesflat.co/html/restaurant/fastfood/assets/font/icon/fa-solid-900.woff2
+18:12:01	Warning: 	File not parsed, looks like binary: https://themesflat.co/html/restaurant/pizza/assets/font/icon/fa-brands-400.woff2
+18:12:02	Warning: 	File not parsed, looks like binary: https://themesflat.co/html/restaurant/pizza/assets/font/icon/fa-duotone-900.woff2
+18:12:08	Error: 	"Not Found" (404) at link https://themesflat.co/html/restaurant/pizza/assets/icon/fa-light-300.eot (from https://themesflat.co/html/restaurant/pizza/assets/font/font-awesome.css)
+18:12:08	Warning: 	File not parsed, looks like binary: https://themesflat.co/html/restaurant/pizza/assets/font/icon/fa-light-300.woff2
+18:12:11	Warning: 	File not parsed, looks like binary: https://themesflat.co/html/restaurant/pizza/assets/font/icon/fa-regular-400.woff2
+18:12:13	Warning: 	File not parsed, looks like binary: https://themesflat.co/html/restaurant/pizza/assets/font/icon/fa-solid-900.woff2
+18:12:15	Error: 	"Not Found" (404) at link https://themesflat.co/html/restaurant/pizza/assets/icon/yardleypersonaluse-rpem6.ttf (from https://themesflat.co/html/restaurant/pizza/assets/font/yardley.css)
+18:13:21	Error: 	"Not Found" (404) at link https://themesflat.co/html/restaurant/sushi/assets/font/IPAMincho (from https://themesflat.co/html/restaurant/sushi/assets/font/font.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 20 minutes 32 seconds : 1374 links scanned, 1363 files written (189601819 bytes overall) [185753517 bytes received at 150773 bytes/sec], 5554343 bytes transferred using HTTP compression in 124 files, ratio 14%, 1.9 requests per connection
+(7 errors, 18 warnings, 0 messages)

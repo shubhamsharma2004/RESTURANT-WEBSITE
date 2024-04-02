@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.highcharts.com	TRUE	/	FALSE	1999999999	_cfuvid	nUgNA_FRxex0W4cSt3QqqB4LB8HuDUP8AJHJ6oSvVyU-1711628620917-0.0.1.1-604800000
+code.highcharts.com	TRUE	/	FALSE	1999999999	SameSite	None
+
